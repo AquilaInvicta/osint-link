@@ -17,6 +17,7 @@
 - [Checkphish](https://checkphish.bolster.ai/): Real-time analysis of suspicious URLs.
 - [Phishtank](https://phishtank.org/): Collection of phishing URLs reported by the community.
 - [Openphish](https://openphish.com/phishing_feeds.html): Active phishing feed.
+- [Snusbase](https://snusbase.com/): A search engine for compromised databases often used in phishing campaigns.
 
 ---
 
@@ -28,6 +29,7 @@
 - [Hunter](https://hunter.how/): Search for email addresses associated with a domain.
 - [DShield](https://www.dshield.org/): Data collection on cyber attacks.
 - [Hybrid Analysis](https://hybrid-analysis.com/): Sandbox-based malware analysis service.
+- [ThreatMiner](https://www.threatminer.org/): Provides detailed threat intelligence about IPs, domains, and malware.
 
 ---
 
