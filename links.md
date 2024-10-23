@@ -1,166 +1,164 @@
-
-
 ### **MALWARE**
-- [Digitalside Threat Intel](https://osint.digitalside.it/): Raccolta di indicatori di compromissione (IOC).
+- [Digitalside Threat Intel](https://osint.digitalside.it/): Collection of indicators of compromise (IOC).
 
 ---
 
 ### **STATUS**
-- [Checkhost](https://check-host.net/): Verifica se un sito è attivo e risponde alle richieste.
-- [Downdetector](https://downdetector.com/): Monitoraggio dello stato di vari servizi e siti web.
-- [Is It Down Right Now](https://www.isitdownrightnow.com/): Controlla se un sito è attualmente inattivo.
-- [Down for Everyone or Just Me](https://downforeveryoneorjustme.com/): Verifica se un sito web è inattivo per tutti o solo per te.
+- [Checkhost](https://check-host.net/): Checks whether a site is active and responding to requests.
+- [Downdetector](https://downdetector.com/): Monitoring the status of various services and websites.
+- [Is It Down Right Now](https://www.isitdownrightnow.com/): Checks whether a site is currently down.
+- [Down for Everyone or Just Me](https://downforeveryoneorjustme.com/): Checks whether a website is down for everyone or just you.
 
 ---
 
 ### **PHISHING**
-- [Portugal Shell](https://feed.seguranca-informatica.pt/index.php): Database di feed di sicurezza informatica.
-- [Easy DMARC](https://easydmarc.com/tools/phishing-url): Strumento per verificare URL di phishing.
-- [Checkphish](https://checkphish.bolster.ai/): Analisi in tempo reale degli URL sospetti.
-- [Phishtank](https://phishtank.org/): Raccolta di URL di phishing segnalati dalla community.
-- [Openphish](https://openphish.com/phishing_feeds.html): Feed di phishing attivo.
+- [Portugal Shell](https://feed.seguranca-informatica.pt/index.php): Database of computer security feeds.
+- [Easy DMARC](https://easydmarc.com/tools/phishing-url): Tool to check phishing URLs.
+- [Checkphish](https://checkphish.bolster.ai/): Real-time analysis of suspicious URLs.
+- [Phishtank](https://phishtank.org/): Collection of phishing URLs reported by the community.
+- [Openphish](https://openphish.com/phishing_feeds.html): Active phishing feed.
 
 ---
 
 ### **OK FOR EVERYTHING**
-- [VirusTotal](https://www.virustotal.com/gui/home/upload): Analizza file e URL sospetti.
-- [AlienVault](https://otx.alienvault.com/dashboard/new): Piattaforma per la condivisione di indicatori di compromissione (IOC).
-- [IBM](https://exchange.xforce.ibmcloud.com/): Analisi delle minacce e reputazione degli IP.
-- [Zoomeye](https://www.zoomeye.hk/): Motore di ricerca per la sicurezza e l'intelligence.
-- [Hunter](https://hunter.how/): Cerca indirizzi email associati a un dominio.
-- [DShield](https://www.dshield.org/): Raccolta di dati su attacchi informatici.
-- [Hybrid Analysis](https://hybrid-analysis.com/): Servizio di analisi dei malware basato su sandbox.
+- [VirusTotal](https://www.virustotal.com/gui/home/upload): Scans suspicious files and URLs.
+- [AlienVault](https://otx.alienvault.com/dashboard/new): Platform for sharing indicators of compromise (IOC).
+- [IBM](https://exchange.xforce.ibmcloud.com/): Threat analysis and IP reputation.
+- [Zoomeye](https://www.zoomeye.hk/): Security and intelligence search engine.
+- [Hunter](https://hunter.how/): Search for email addresses associated with a domain.
+- [DShield](https://www.dshield.org/): Data collection on cyber attacks.
+- [Hybrid Analysis](https://hybrid-analysis.com/): Sandbox-based malware analysis service.
 
 ---
 
 ### **IP REPUTATION**
-- [FOFA](https://en.fofa.info/): Motore di ricerca per l'intelligence sui dati.
-- [AbuseIPDB](https://www.abuseipdb.com/): Servizio di segnalazione e controllo della reputazione IP.
-- [Binary Defense](https://www.binarydefense.com/banlist.txt): Lista di IP malevoli.
-- [IPsum Threat Intelligence Feed](https://raw.githubusercontent.com/stamparm/ipsum/master/ipsum.txt): Feed di IP sospetti.
-- [TOR Node](https://metrics.torproject.org/exonerator.html): Verifica se un indirizzo IP è un nodo TOR.
-- [Feodo Tracker (abuse.ch)](https://feodotracker.abuse.ch/browse/): Controllo IP associati a botnet.
-- [HackedIP](https://www.hackedip.org/): Verifica se un IP è stato compromesso.
-- [TALOS](https://talosintelligence.com/): Intelligence sulle minacce.
-- [Pulsedive](https://pulsedive.com/): Informazioni su indicatori di minaccia.
-- [Scamalytics](https://scamalytics.com/): Identificazione di IP utilizzati per truffe.
+- [FOFA](https://en.fofa.info/): Data intelligence search engine.
+- [AbuseIPDB](https://www.abuseipdb.com/): IP reputation reporting and monitoring service.
+- [Binary Defense](https://www.binarydefense.com/banlist.txt): List of malicious IPs.
+- [IPsum Threat Intelligence Feed](https://raw.githubusercontent.com/stamparm/ipsum/master/ipsum.txt): Feed of suspicious IPs.
+- [TOR Node](https://metrics.torproject.org/exonerator.html): Checks whether an IP address is a TOR node.
+- [Feodo Tracker (abuse.ch)](https://feodotracker.abuse.ch/browse/): Checking IPs associated with botnets.
+- [HackedIP](https://www.hackedip.org/): Checks whether an IP has been compromised.
+- [TALOS](https://talosintelligence.com/): Threat intelligence.
+- [Pulsedive](https://pulsedive.com/): Information on threat indicators.
+- [Scamalytics](https://scamalytics.com/): Identification of IPs used for scams.
 
 ---
 
 ### **ASN REPUTATION**
-- [BGP RANKING](https://bgpranking.circl.lu/asn): Ranking degli ASN in base alla reputazione.
+- [BGP RANKING](https://bgpranking.circl.lu/asn): Ranking of ASNs by reputation.
 
 ---
 
 ### **WHOIS & DNS**
-- [ViewDNSinfo](https://viewdns.info/): Raccolta di strumenti per la ricerca DNS.
-- [DNSDumpster](https://dnsdumpster.com/): Ricerca e analisi dei record DNS.
-- [MXToolbox](https://mxtoolbox.com/): Strumenti di diagnostica DNS e ricerca WHOIS.
-- [WhoisHosting](https://whoishostingthis.com/): Identifica l'host di un sito web.
-- [Whoisology](https://whoisology.com/): Database di informazioni WHOIS.
-- [IPFingerprints](https://www.ipfingerprints.com/): Servizio di ricerca geografica degli indirizzi IP.
-- [ROBTEX](https://www.robtex.com/): Analisi e ricerca di record DNS e indirizzi IP.
-- [DNSlytics](https://search.dnslytics.com/): Strumento di analisi dei DNS e degli indirizzi IP.
-- [WebsiteInformer](https://website.informer.com/): Informazioni dettagliate sui siti web.
-- [GreyNoise](https://viz.greynoise.io/ip/): Visualizza dati di intelligence su attività di scansione IP.
-- [Censys](https://search.censys.io/): Motore di ricerca per dispositivi connessi a Internet.
-- [Shodan](https://www.shodan.io/): Motore di ricerca per dispositivi IoT connessi a Internet.
-- [Bulk IP](https://www.infobyip.com/ipbulklookup.php): Ricerca in blocco di informazioni su IP.
-- [dbIP](https://db-ip.com): Database IP dettagliato.
+- [ViewDNSinfo](https://viewdns.info/): Collection of DNS lookup tools.
+- [DNSDumpster](https://dnsdumpster.com/): Search and analysis of DNS records.
+- [MXToolbox](https://mxtoolbox.com/): DNS diagnostic and WHOIS lookup tools.
+- [WhoisHosting](https://whoishostingthis.com/): Identifies the host of a website.
+- [Whoisology](https://whoisology.com/): WHOIS information database.
+- [IPFingerprints](https://www.ipfingerprints.com/): Geographic IP address lookup service.
+- [ROBTEX](https://www.robtex.com/): Analysis and lookup of DNS records and IP addresses.
+- [DNSlytics](https://search.dnslytics.com/): DNS and IP address analysis tool.
+- [WebsiteInformer](https://website.informer.com/): Detailed information about Web sites.
+- [GreyNoise](https://viz.greynoise.io/ip/): Displays intelligence data on IP scanning activities.
+- [Censys](https://search.censys.io/): Search engine for Internet-connected devices.
+- [Shodan](https://www.shodan.io/): Search engine for Internet-connected IoT devices.
+- [Bulk IP](https://www.infobyip.com/ipbulklookup.php): Bulk search for IP information.
+- [dbIP](https://db-ip.com): Detailed IP database.
 
 ---
 
 ### **OPEN PORT**
-- [YouGetSignal](https://www.yougetsignal.com/tools/open-ports/): Strumento per il controllo delle porte aperte.
-- [Port Checker](https://portchecker.co/): Controlla se una specifica porta è aperta.
-- [CanYouSeeMe](https://canyouseeme.org/): Test per le porte aperte sul tuo indirizzo IP.
-- [Censys](https://search.censys.io/): Ricerca dispositivi con porte aperte.
+- [YouGetSignal](https://www.yougetsignal.com/tools/open-ports/): Open port checker tool.
+- [Port Checker](https://portchecker.co/): Checks whether a specific port is open.
+- [CanYouSeeMe](https://canyouseeme.org/): Tests for open ports on your IP address.
+- [Censys](https://search.censys.io/): Search for devices with open ports.
 
 ---
 
 ### **VPN**
-- [Spur](https://spur.us/context/): Strumento di identificazione VPN.
-- [IP2Proxy](https://www.ip2proxy.com/): Identifica proxy e VPN.
+- [Spur](https://spur.us/context/): VPN identification tool.
+- [IP2Proxy](https://www.ip2proxy.com/): Identifies proxy and VPN.
 
 ---
 
 ### **CHECK IOC DB**
-- [Digitalside](https://osint.digitalside.it/): Repository di indicatori di compromissione (IOC).
-- [InquestLabs](https://labs.inquest.net/): Database di indicatori di compromissione (IOC).
-- [MalwareBazaar](https://bazaar.abuse.ch/browse/): Archivio di campioni di malware.
-- [Malware Traffic Analysis](https://malware-traffic-analysis.net/2024/index.html): Campioni di traffico di rete dannoso.
-- [IOC List (GitHub)](https://github.com/Neo23x0/signature-base/tree/master/iocs): Repository con liste di IOC.
-- [ThreatFox](https://threatfox.abuse.ch/): Piattaforma gratuita per la condivisione di IOC.
-- [Malware Email Addresses](https://malware-email-addresses.txt): Database di indirizzi email legati a malware.
-- [URLHaus](https://urlhaus.abuse.ch/): Raccolta di URL dannosi.
-- [VirusShare Database](https://virusshare.com/): Database di campioni di malware.
-- [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/): Informazioni dettagliate sui malware.
+- [Digitalside](https://osint.digitalside.it/): Repository of indicators of compromise (IOC).
+- [InquestLabs](https://labs.inquest.net/): Compromise indicator database (IOC).
+- [MalwareBazaar](https://bazaar.abuse.ch/browse/): Malware sample repository.
+- [Malware Traffic Analysis](https://malware-traffic-analysis.net/2024/index.html): Malicious network traffic samples.
+- [IOC List (GitHub)](https://github.com/Neo23x0/signature-base/tree/master/iocs): Repository with lists of IOCs.
+- [ThreatFox](https://threatfox.abuse.ch/): Free platform for sharing IOCs.
+- [Malware Email Addresses](https://malware-email-addresses.txt): Database of malware-related email addresses.
+- [URLHaus](https://urlhaus.abuse.ch/): Collection of malicious URLs.
+- [VirusShare Database](https://virusshare.com/): Database of malware samples.
+- [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/): Detailed information on malware.
 
 ---
 
 ### **REGEX**
-- [CyberChef](https://gchq.github.io/CyberChef/): Strumento per operazioni di manipolazione dati e analisi.
-- [Regex101](https://regex101.com/): Strumento online per testare espressioni regolari.
+- [CyberChef](https://gchq.github.io/CyberChef/): Tool for data manipulation operations and analysis.
+- [Regex101](https://regex101.com/): Online tool for testing regular expressions.
 
 ---
 
 ### **SANDBOX**
-- [Browserling](https://www.browserling.com/): Sandbox per testare URL in un browser virtuale.
-- [Browserlol](https://browser.lol/): Sandbox per navigare in sicurezza.
-- [ANY.RUN](https://any.run/): Sandbox interattiva per l'analisi di malware.
-- [Joe Sandbox](https://www.joesandbox.com/#windows): Sandbox per l'analisi automatica di file sospetti.
+- [Browserling](https://www.browserling.com/): Sandbox for testing URLs in a virtual browser.
+- [Browserlol](https://browser.lol/): Sandbox for safe browsing.
+- [ANY.RUN](https://any.run/): Interactive sandbox for malware analysis.
+- [Joe Sandbox](https://www.joesandbox.com/#windows): Sandbox for automatic analysis of suspicious files.
 
 ---
 
 ### **URL**
-- [URLDNA](https://urldna.io/): Analisi della struttura degli URL.
-- [URLScan](https://urlscan.io/): Scansione e analisi di URL sospetti.
-- [URLVoid](https://www.urlvoid.com/): Controllo della reputazione degli URL.
-- [URLEncoder](https://www.urlencoder.org/): Converti URL in formato codificato.
-- [HTTP Request Viewer](https://httpdebugger.com/Tools/ViewHttpHeaders.aspx): Visualizza intestazioni HTTP.
+- [URLDNA](https://urldna.io/): URL structure analysis.
+- [URLScan](https://urlscan.io/): Scan and analyze suspicious URLs.
+- [URLVoid](https://www.urlvoid.com/): Checking the reputation of URLs.
+- [URLEncoder](https://www.urlencoder.org/): Convert URLs to encoded format.
+- [HTTP Request Viewer](https://httpdebugger.com/Tools/ViewHttpHeaders.aspx): View HTTP headers.
 
 ---
 
 ### **GENERAL**
-- [Ultimate OSINT Tool](https://epieos.com/): Strumento OSINT per la ricerca inversa di email e numeri di telefono.
-- [JustDeleteMe](https://justdeleteme.xyz/#): Directory di link diretti per eliminare i tuoi account dai servizi web.
+- [Ultimate OSINT Tool](https://epieos.com/): OSINT tool for reverse lookup of emails and phone numbers.
+- [JustDeleteMe](https://justdeleteme.xyz/#): Directory of direct links to delete your accounts from web services.
 
 ---
 
 ### **POC**
-- [Mirror](https://ownzyou.com/index): Piattaforma di Proof of Concept per exploit.
-- [Defacing](https://defacermirror.com/): Archivio di siti web defacciati.
+- [Mirror](https://ownzyou.com/index): Proof of Concept platform for exploits.
+- [Defacing](https://defacermirror.com/): Archive of defaced web sites.
 
 ---
 
-### **ANALISI BLOCKCHAIN TRANSAZIONI**
-- [Blockchain.info](https://www.blockchain.com/explorer): Esamina tutte le transazioni associate a un wallet.
-- [ChainAbuse](https://www.chainabuse.com/?bca=true): Raccoglie segnalazioni di abuso collegate a indirizzi Bitcoin.
+### **ANALYSIS BLOCKCHAIN TRANSACTIONS**
+- [Blockchain.info](https://www.blockchain.com/explorer): Examines all transactions associated with a wallet.
+- [ChainAbuse](https://www.chainabuse.com/?bca=true): Collects abuse reports linked to Bitcoin addresses.
 
 ---
 
 ### **FW RULES**
-- [Collection of Firewall Rules](https://rules.emergingthreats.net/fwrules/): Raccolta di regole per vari tipi di firewall.
-- [Snort and Suricata Rules](https://rules.emergingthreats.net/blockrules/): Raccolta di regole per Snort e Suricata.
-- [Icewater Yara Rules](https://github.com/SupportIntelligence/Icewater): Raccolta di 12.805 regole Yara create da Project Icewater.
+- [Collection of Firewall Rules](https://rules.emergingthreats.net/fwrules/): Collection of rules for various types of firewalls.
+- [Snort and Suricata Rules](https://rules.emergingthreats.net/blockrules/): Collection of rules for Snort and Suricata.
+- [Icewater Yara Rules](https://github.com/SupportIntelligence/Icewater): Collection of 12,805 Yara rules created by Project Icewater.
 
 ---
 
 ### **INFO APT**
-- [MITRE](https://attack.mitre.org/): Matrice ATT&CK di MITRE per la difesa e l'analisi delle minacce.
-- [APT Groups and Operations](https://docs.google.com/spreadsheets/u/1/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml): Elenco di gruppi APT e le loro operazioni.
-- [FIREHOL](https://iplists.firehol.org/?ipset=firehol_webclient): IP Feeds analizzati con mappa geografica, età degli IP, e altro.
+- [MITRE](https://attack.mitre.org/): ATT&CK matrix of MITRE for defense and threat analysis.
+- [APT Groups and Operations](https://docs.google.com/spreadsheets/u/1/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml): List of APT groups and their operations.
+- [FIREHOL](https://iplists.firehol.org/?ipset=firehol_webclient): IP Feeds analyzed with geographic map, age of IPs, and more.
 
 ---
 
 ### **PHONE NUMBER**
-- [FreeCarrierLookup](https://freecarrierlookup.com/): Strumento di ricerca per operatori telefonici.
+- [FreeCarrierLookup](https://freecarrierlookup.com/): Phone operator lookup tool.
 
 ---
 
 ### **EMAIL**
-- [HaveIBeenPwned](https://haveibeenpwned.com/): Verifica se il tuo indirizzo email è stato compromesso.
-- [WOT](https://www.mywot.com/): Strumento per controllare la reputazione e la sicurezza dei siti web.
+- [HaveIBeenPwned](https://haveibeenpwned.com/): Check if your email address has been compromised.
+- [WOT](https://www.mywot.com/): Tool to check the reputation and security of Web sites.
 
 ---
 
