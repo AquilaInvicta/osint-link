@@ -21,7 +21,7 @@
 
 ---
 
-### **OK FOR EVERYTHING**
+### **UNIVERSAL IOC Resources**
 - [VirusTotal](https://www.virustotal.com/gui/home/upload): Scans suspicious files and URLs.
 - [AlienVault](https://otx.alienvault.com/dashboard/new): Platform for sharing indicators of compromise (IOC).
 - [IBM](https://exchange.xforce.ibmcloud.com/): Threat analysis and IP reputation.
