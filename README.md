@@ -8,6 +8,7 @@ The list is continuously updated to include the most relevant and useful resourc
 - Malware
 - Status Monitoring
 - Phishing
+- Universal IOC Resources
 - IP Reputation
 - Open Ports
 - VPN Detection
