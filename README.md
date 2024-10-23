@@ -21,4 +21,4 @@ The list is continuously updated to include the most relevant and useful resourc
 - Phone Number Lookup
 - Email Security
 
-Contributions and suggestions are always welcome!
+Contributions and suggestions are always welcome! :rocket: :smile:
