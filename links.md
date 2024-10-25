@@ -67,6 +67,7 @@
 - [Shodan](https://www.shodan.io/): Search engine for Internet-connected IoT devices.
 - [Bulk IP](https://www.infobyip.com/ipbulklookup.php): Bulk search for IP information.
 - [dbIP](https://db-ip.com): Detailed IP database.
+- [Spiderfoot](https://github.com/smicallef/spiderfoot): crawler tool
 
 ---
 
