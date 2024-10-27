@@ -140,6 +140,13 @@
 - [WolframAlpha](https://www.wolframalpha.com/): A computational knowledge engine that provides answers by performing dynamic calculations based on a vast collection of built-in data, algorithms, and   methods
 ---
 
+### **HASH TOOL**
+
+- [Hashcat](https://hashcat.net/wiki/doku.php?id=example_hashes): A collection of example hashes for use with Hashcat for testing and cracking.
+- [TunnelsUP](https://www.tunnelsup.com/hash-analyzer/): An online tool to identify the type of hash from a provided hash string.
+- [Hash Decrypt](https://hashes.com/en/decrypt/hash): An online tool to decrypt hashes using a large database of known hashes.
+---
+
 ### **ANALYSIS BLOCKCHAIN TRANSACTIONS**
 - [Blockchain.info](https://www.blockchain.com/explorer): Examines all transactions associated with a wallet.
 - [ChainAbuse](https://www.chainabuse.com/?bca=true): Collects abuse reports linked to Bitcoin addresses.
