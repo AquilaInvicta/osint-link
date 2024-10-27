@@ -134,9 +134,10 @@
 
 ---
 
-### **Online Cryptography tool**
+### **CRYPTOGRAPHY TOOL**
 
 - [Cryptii](https://cryptii.com/): encoding, decoding, encryption, and decryption of messages using various ciphers and formats
+- [WolframAlpha](https://www.wolframalpha.com/): A computational knowledge engine that provides answers by performing dynamic calculations based on a vast collection of built-in data, algorithms, and   methods
 ---
 
 ### **ANALYSIS BLOCKCHAIN TRANSACTIONS**
