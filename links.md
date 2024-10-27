@@ -134,6 +134,11 @@
 
 ---
 
+### **Online Cryptography tool**
+
+- [Cryptii](https://cryptii.com/): encoding, decoding, encryption, and decryption of messages using various ciphers and formats
+---
+
 ### **ANALYSIS BLOCKCHAIN TRANSACTIONS**
 - [Blockchain.info](https://www.blockchain.com/explorer): Examines all transactions associated with a wallet.
 - [ChainAbuse](https://www.chainabuse.com/?bca=true): Collects abuse reports linked to Bitcoin addresses.
