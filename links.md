@@ -82,6 +82,7 @@
 ### **VPN**
 - [Spur](https://spur.us/context/): VPN identification tool.
 - [IP2Proxy](https://www.ip2proxy.com/): Identifies proxy and VPN.
+- [ProxyCheck](https://proxycheck.io/): Identifies proxy and VPN.
 
 ---
 
