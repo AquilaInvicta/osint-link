@@ -56,6 +56,7 @@
 - [ViewDNSinfo](https://viewdns.info/): Collection of DNS lookup tools.
 - [DNSDumpster](https://dnsdumpster.com/): Search and analysis of DNS records.
 - [MXToolbox](https://mxtoolbox.com/): DNS diagnostic and WHOIS lookup tools.
+- [DomainTools](https://whois.domaintools.com/): Who is
 - [WhoisHosting](https://whoishostingthis.com/): Identifies the host of a website.
 - [Whoisology](https://whoisology.com/): WHOIS information database.
 - [IPFingerprints](https://www.ipfingerprints.com/): Geographic IP address lookup service.
@@ -84,6 +85,7 @@
 - [IPQS](https://www.ipqualityscore.com/): VPN identification tool.
 - [IP2Proxy](https://www.ip2proxy.com/): Identifies proxy and VPN.
 - [ProxyCheck](https://proxycheck.io/): Identifies proxy and VPN.
+- [IP Teoh](https://ip.teoh.io/): VPN identification tool
 
 ---
 
